@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7af6d6b539b7b530e09538e0c43dac28",
+    "revision": "386850015d0a21ae6103f50503f1a05b",
     "url": "/organizations-in-dadata/index.html"
   },
   {
-    "revision": "6388a3423ad2359f38e3",
+    "revision": "218d970d7ce541ff12c8",
     "url": "/organizations-in-dadata/static/css/main.833481b7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/organizations-in-dadata/static/js/2.3298a178.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6388a3423ad2359f38e3",
-    "url": "/organizations-in-dadata/static/js/main.49f48f7d.chunk.js"
+    "revision": "218d970d7ce541ff12c8",
+    "url": "/organizations-in-dadata/static/js/main.565307e5.chunk.js"
   },
   {
     "revision": "e68e443e0d920784ce69",
