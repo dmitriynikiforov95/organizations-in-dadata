@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d0ff58de94419c5a522c3f987824222d",
+    "revision": "9e7e5837cdee1f4ed7725b234b90b3f7",
     "url": "/organizations-in-dadata/index.html"
   },
   {
-    "revision": "660df61364d650aba880",
-    "url": "/organizations-in-dadata/static/css/main.6fada8cc.chunk.css"
+    "revision": "4cf828aac07577f5e069",
+    "url": "/organizations-in-dadata/static/css/main.b6ec2523.chunk.css"
   },
   {
     "revision": "28e8455ca0222caa0c06",
     "url": "/organizations-in-dadata/static/js/2.58b10d96.chunk.js"
   },
   {
-    "revision": "660df61364d650aba880",
+    "revision": "4cf828aac07577f5e069",
     "url": "/organizations-in-dadata/static/js/main.a534a0d7.chunk.js"
   },
   {
