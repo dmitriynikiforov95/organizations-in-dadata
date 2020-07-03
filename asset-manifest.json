@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/organizations-in-dadata/static/css/main.b6ec2523.chunk.css",
-    "main.js": "/organizations-in-dadata/static/js/main.a534a0d7.chunk.js",
-    "main.js.map": "/organizations-in-dadata/static/js/main.a534a0d7.chunk.js.map",
+    "main.css": "/organizations-in-dadata/static/css/main.373dce54.chunk.css",
+    "main.js": "/organizations-in-dadata/static/js/main.7a4948cf.chunk.js",
+    "main.js.map": "/organizations-in-dadata/static/js/main.7a4948cf.chunk.js.map",
     "runtime-main.js": "/organizations-in-dadata/static/js/runtime-main.106946e1.js",
     "runtime-main.js.map": "/organizations-in-dadata/static/js/runtime-main.106946e1.js.map",
     "static/js/2.58b10d96.chunk.js": "/organizations-in-dadata/static/js/2.58b10d96.chunk.js",
     "static/js/2.58b10d96.chunk.js.map": "/organizations-in-dadata/static/js/2.58b10d96.chunk.js.map",
     "index.html": "/organizations-in-dadata/index.html",
-    "precache-manifest.61da05c6950eaa794cb0d7e2cd75ec56.js": "/organizations-in-dadata/precache-manifest.61da05c6950eaa794cb0d7e2cd75ec56.js",
+    "precache-manifest.5e2e046cca8552e7c2ac3178e7e92c18.js": "/organizations-in-dadata/precache-manifest.5e2e046cca8552e7c2ac3178e7e92c18.js",
     "service-worker.js": "/organizations-in-dadata/service-worker.js",
-    "static/css/main.b6ec2523.chunk.css.map": "/organizations-in-dadata/static/css/main.b6ec2523.chunk.css.map",
+    "static/css/main.373dce54.chunk.css.map": "/organizations-in-dadata/static/css/main.373dce54.chunk.css.map",
     "static/media/app-logo.svg": "/organizations-in-dadata/static/media/app-logo.8587c4e4.svg",
     "static/media/trash-can.svg": "/organizations-in-dadata/static/media/trash-can.c1ae67a7.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.106946e1.js",
     "static/js/2.58b10d96.chunk.js",
-    "static/css/main.b6ec2523.chunk.css",
-    "static/js/main.a534a0d7.chunk.js"
+    "static/css/main.373dce54.chunk.css",
+    "static/js/main.7a4948cf.chunk.js"
   ]
 }
