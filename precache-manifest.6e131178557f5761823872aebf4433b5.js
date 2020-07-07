@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "692451ebfb82a35af2001734a4cf1cb7",
+    "revision": "ec0a89ef40d5d2630d3f594a0a46777e",
     "url": "/organizations-in-dadata/index.html"
   },
   {
-    "revision": "970c4cf247c8b50bb045",
-    "url": "/organizations-in-dadata/static/css/main.373dce54.chunk.css"
+    "revision": "33289e42b0f6ee07971c",
+    "url": "/organizations-in-dadata/static/css/main.5d588f74.chunk.css"
   },
   {
-    "revision": "28e8455ca0222caa0c06",
-    "url": "/organizations-in-dadata/static/js/2.58b10d96.chunk.js"
+    "revision": "ffd48ffc4bb0ecac16aa",
+    "url": "/organizations-in-dadata/static/js/2.7e9cb448.chunk.js"
   },
   {
-    "revision": "970c4cf247c8b50bb045",
-    "url": "/organizations-in-dadata/static/js/main.7a4948cf.chunk.js"
+    "revision": "33289e42b0f6ee07971c",
+    "url": "/organizations-in-dadata/static/js/main.f6c80d98.chunk.js"
   },
   {
     "revision": "8705a407350390975dcb",
